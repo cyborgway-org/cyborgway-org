@@ -1,0 +1,92 @@
+# Cyborg Way Stellar Anchor <https://cyborgway.org>
+# https://github.com/stellar/stellar-protocol/tree/master/ecosystem
+
+ACCOUNTS=[
+"GCIKFVTBQ4QPM3IWTOKXKLHKJLVJWHN6QAFIVMQEKGUPGBFLXMUGWXAB",
+"GCDNKACFJHRKTQDVCWALUQKTXZDMUPWR4CV2CHK6YSKWNESFSYZ3MIHF"
+]
+
+[DOCUMENTATION]
+ORG_NAME="Cyborg Way"
+ORG_DBA="Cyborg Way"
+ORG_URL="https://cyborgway.org"
+ORG_LOGO="https://cyborgway.org/images/logo.png"
+ORG_DESCRIPTION="Cyborg Way - the organization that seeks to accelerate the emergence of cybernetic technologies, cybernetic bodies, cybernetic minds, cybernetic civilization."
+ORG_GITHUB="cyborgway-org"
+ORG_OFFICIAL_EMAIL="hello@cyborgway.org"
+ORG_SUPPORT_EMAIL="hello@cyborgway.org"
+
+[[CURRENCIES]]
+code="USD"
+issuer="GCIKFVTBQ4QPM3IWTOKXKLHKJLVJWHN6QAFIVMQEKGUPGBFLXMUGWXAB"
+status="live"
+display_decimals=2
+anchor_asset_type="fiat"
+anchor_asset="USD"
+is_asset_anchored=true
+is_unlimited=true
+name="Donation US Dollar"
+desc="This asset backed 1:1 to the US dollar and backed funds are invested in of the mission and goals of the organization."
+conditions="This asset is given as a gratitude and appreciation for donations to the mission and goals of the organization."
+redemption_instructions="This asset can be exchanged in the future for products of the organization, bonuses, prizes and other valuable gifts."
+image="https://cyborgway.org/images/logo.png"
+
+[[CURRENCIES]]
+code="EUR"
+issuer="GCIKFVTBQ4QPM3IWTOKXKLHKJLVJWHN6QAFIVMQEKGUPGBFLXMUGWXAB"
+status="live"
+display_decimals=2
+anchor_asset_type="fiat"
+anchor_asset="EUR"
+is_asset_anchored=true
+is_unlimited=true
+name="Donation Euro"
+desc="This asset backed 1:1 to the Euro and backed funds are invested in of the mission and goals of the organization."
+conditions="This asset is given as a gratitude and appreciation for donations to the mission and goals of the organization."
+redemption_instructions="This asset can be exchanged in the future for products of the organization, bonuses, prizes and other valuable gifts."
+image="https://cyborgway.org/images/logo.png"
+
+[[CURRENCIES]]
+code="UAH"
+issuer="GCIKFVTBQ4QPM3IWTOKXKLHKJLVJWHN6QAFIVMQEKGUPGBFLXMUGWXAB"
+status="live"
+display_decimals=2
+anchor_asset_type="fiat"
+anchor_asset="UAH"
+is_asset_anchored=true
+is_unlimited=true
+name="Donation Ukrainian Hryvna"
+desc="This asset backed 1:1 to the Ukrainian Hryvna and backed funds are invested in of the mission and goals of the organization."
+conditions="This asset is given as a gratitude and appreciation for donations to the mission and goals of the organization."
+redemption_instructions="This asset can be exchanged in the future for products of the organization, bonuses, prizes and other valuable gifts."
+image="https://cyborgway.org/images/logo.png"
+
+[[CURRENCIES]]
+code="RUB"
+issuer="GCIKFVTBQ4QPM3IWTOKXKLHKJLVJWHN6QAFIVMQEKGUPGBFLXMUGWXAB"
+status="live"
+display_decimals=2
+anchor_asset_type="fiat"
+anchor_asset="RUB"
+is_asset_anchored=true
+is_unlimited=true
+name="Donation Russian Ruble"
+desc="This asset backed 1:1 to the Russian Ruble and backed funds are invested in of the mission and goals of the organization."
+conditions="This asset is given as a gratitude and appreciation for donations to the mission and goals of the organization."
+redemption_instructions="This asset can be exchanged in the future for products of the organization, bonuses, prizes and other valuable gifts."
+image="https://cyborgway.org/images/logo.png"
+
+[[CURRENCIES]]
+code="BYN"
+issuer="GCIKFVTBQ4QPM3IWTOKXKLHKJLVJWHN6QAFIVMQEKGUPGBFLXMUGWXAB"
+status="live"
+display_decimals=2
+anchor_asset_type="fiat"
+anchor_asset="BYN"
+is_asset_anchored=true
+is_unlimited=true
+name="Donation Belarusian Ruble"
+desc="This asset backed 1:1 to the Belarusian Ruble and backed funds are invested in of the mission and goals of the organization."
+conditions="This asset is given as a gratitude and appreciation for donations to the mission and goals of the organization."
+redemption_instructions="This asset can be exchanged in the future for products of the organization, bonuses, prizes and other valuable gifts."
+image="https://cyborgway.org/images/logo.png"
