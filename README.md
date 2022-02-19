@@ -16,7 +16,7 @@ Please read through our [Contribution Guidelines](CONTRIBUTING.md).
 
 ## Feedback
 
-Join our Telegram groups: [EN](https://t.me/+1cGROo1fDxo0MWFl), [RU](https://t.me/+V4NavsdAyghjMjk1).
+Join our Telegram ([EN](https://t.me/+1cGROo1fDxo0MWFl), [RU](https://t.me/+V4NavsdAyghjMjk1)), [Discord](https://discord.gg/FnNtAnJJbN).
 
 To request a new feature, submit a bug report, give us feedback, start a design discussion or have an idea to make this code better feel free to [open an issue](https://github.com/cyborgway-org/cyborgway-org/issues), or [create a pull request](https://github.com/cyborgway-org/cyborgway-org/pulls).
 
