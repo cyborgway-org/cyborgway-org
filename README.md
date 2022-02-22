@@ -1,6 +1,6 @@
 <h1 align="center">Cyborg Way</h1>
 
-Cyborg Way - the organization that seeks to accelerate the emergence of cybernetic technologies, cybernetic bodies, cybernetic minds, cybernetic civilization. Welcome developers, activists, volunteers, sponsors. Join us and let’s build the future together!
+Cyborg Way - is an organization whose aim is to accelerate the emergence of cybernetic technologies, cybernetic bodies, cybernetic minds, cybernetic civilization. We welcome developers, activists, volunteers, sponsors. Join us and let’s build the future together!
 
 Welcome to our website https://cyborgway.org.
 
@@ -8,9 +8,13 @@ The repository is a part of the [Cyborg Way Organization](https://github.com/cyb
 
 ## Contributing
 
+Your contributions support our community. Contact us to receive donation tokens.
+
 Please read through our [Contribution Guidelines](CONTRIBUTING.md).
 
 ## Donating
+
+Your donations support our community. Contact us to receive donation tokens.
 
 [EUR](https://stellar.expert/explorer/public/asset/EUR-GCIKFVTBQ4QPM3IWTOKXKLHKJLVJWHN6QAFIVMQEKGUPGBFLXMUGWXAB), [USD](https://stellar.expert/explorer/public/asset/USD-GCIKFVTBQ4QPM3IWTOKXKLHKJLVJWHN6QAFIVMQEKGUPGBFLXMUGWXAB), [RUB](https://stellar.expert/explorer/public/asset/RUB-GCIKFVTBQ4QPM3IWTOKXKLHKJLVJWHN6QAFIVMQEKGUPGBFLXMUGWXAB), [UAH](https://stellar.expert/explorer/public/asset/UAH-GCIKFVTBQ4QPM3IWTOKXKLHKJLVJWHN6QAFIVMQEKGUPGBFLXMUGWXAB), [BYN](https://stellar.expert/explorer/public/asset/BYN-GCIKFVTBQ4QPM3IWTOKXKLHKJLVJWHN6QAFIVMQEKGUPGBFLXMUGWXAB).
 
