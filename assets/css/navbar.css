@@ -1,0 +1,30 @@
+#choose-lang {
+    position: fixed;
+    top: 10px;
+    right: 10px;
+    width: 50px;
+    background: rgba(255, 255, 255, 0.9);
+    border-radius: 10px;
+    cursor: pointer;
+}
+#choose-lang img {
+    margin: 13px;
+    width: 24px;
+}
+.dropdown {
+    position: absolute;
+    display: none;
+    right: 50px;
+    top: 0;
+}
+.dropdown div {
+    margin: 5px;
+    padding: 5px;
+    width: 80px;
+    background: rgba(255, 255, 255, 0.9);
+    border-radius: 10px;
+}
+
+#choose-lang:hover .dropdown {
+    display: block;
+}
