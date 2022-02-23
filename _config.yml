@@ -2,6 +2,7 @@ theme: jekyll-theme-cayman
 include: [".well-known"]
 
 repository: AlexFreik/cyborgway-org
+baseurl: https://alexfreik.github.io/cyborgway-org
 
 # Plugins
 plugins:
