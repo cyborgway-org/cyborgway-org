@@ -32,4 +32,4 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }} # It's your Personal Access Token(PAT)
           repository: ''             # Default is current repository
           branch: 'gh-pages'         # Default is gh-pages for github provider
-          jekyll_baseurl: 'https://alexfreik.github.io/cyborgway-org/'         # Default is according to _config.yml
+          cname: 'cyborgway.org'     # Default is to not use a cname
