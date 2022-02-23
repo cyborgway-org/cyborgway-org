@@ -24,4 +24,17 @@ composer.phar
 # Mac DS_Store Files
 .DS_Store
 
+# Env
+*.iml
+
+# Local configuration (never to be committed)
+# (keys, etc.)
+_config_dev.yml # NOTE: you may use different naming, obviously
+
+# Jekyll
+.sass-cache/
+_site/
+.jekyll-cache/
+.jekyll-metadata
+
 CNAME

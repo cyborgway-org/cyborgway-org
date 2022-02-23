@@ -36,3 +36,8 @@ When contributing to this repository, please first discuss the change you wish t
 ### Key branches
 
 - `main` is the latest, deployed version
+
+## Additional information
+
+- [Adding content to your GitHub Pages site using Jekyll](https://help.github.com/en/articles/adding-content-to-your-github-pages-site-using-jekyll)
+- [Jekyll - Static Site Generator / Tutorial](https://www.youtube.com/playlist?list=PLLAZ4kZ9dFpOPV5C5Ay0pHaa0RJFhcmcB)
