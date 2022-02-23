@@ -1,3 +1,0 @@
-## Feedback
-
-Esperanto version
