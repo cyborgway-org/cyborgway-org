@@ -1,13 +1,17 @@
 <link rel="stylesheet" href="/assets/css/navbar.css">
 <nav>
     <div id="choose-lang">
-        <div><img src="/assets/images/icon-globe.png"></div>
+        <div id="choose-lang-ico">{{ site.lang }}</div>
         <div class="dropdown">
         {% for lang in site.languages %}
-            {% if lang == site.default_lang and site.default_locale_in_subfolder != true %}
-                <div><a href="{{ site.baseurl_root }}{{ page.url }}" >{% t langs.{{ lang }} %}</a></div>
+            {% if site.lang != lang %}
+                {% if lang == site.default_lang and site.default_locale_in_subfolder != true %}
+                    <div><a href="{{ site.baseurl_root }}{{ page.url }}">{% t langs.{{ lang }} %} {{ diff_lang_href}}</a></div>
+                {% else %}
+                    <div><a href="{{ site.baseurl_root }}/{{ lang }}{{ page.url }}">{% t langs.{{ lang }} %}</a></div>
+                {% endif %}
             {% else %}
-                <div><a href="{{ site.baseurl_root }}/{{ lang }}{{ page.url }}" >{% t langs.{{ lang }} %}</a></div>
+                <div class="selected-lang">{% t langs.{{ lang }} %}</div>
             {% endif %}
         {% endfor %}
         </div>
