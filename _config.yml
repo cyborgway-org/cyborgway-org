@@ -1,6 +1,8 @@
 theme: jekyll-theme-cayman
 include: [".well-known"]
 
+repository: AlexFreik/cyborgway-org
+
 # Plugins
 plugins:
   - jekyll-multiple-languages-plugin
