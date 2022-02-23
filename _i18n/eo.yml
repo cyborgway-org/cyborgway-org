@@ -1,0 +1,15 @@
+global:
+  description: >
+    Cyborg Way - Esperanto description
+social_media:
+  telegram: none
+  discord: none
+
+langs:
+  en: English
+  ru: Русский
+  eo: Esperanto
+
+# Please ignore everything bellow. Without it Jekyll throws a Liquid Exception.
+page:
+  description: please ignore, without this

@@ -11,6 +11,7 @@ social_media:
 langs:
   en: English
   ru: Русский
+  eo: Esperanto
 
 # Please ignore everything bellow. Without it Jekyll throws a Liquid Exception.
 page:
