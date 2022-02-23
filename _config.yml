@@ -1,2 +1,11 @@
 theme: jekyll-theme-cayman
 include: [".well-known"]
+
+# Plugins
+plugins:
+  - jekyll-multiple-languages-plugin
+
+# jekyll-multiple-languages-plugin settings:
+languages: ["en", "ru", "eo"]
+
+exclude_from_localizations: ["assets", "_sass", "_layouts", "_includes"]

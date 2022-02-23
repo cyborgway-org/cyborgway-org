@@ -1,0 +1,19 @@
+global:
+  description: >
+    Cyborg Way - это организация, целью которой является ускорение появления
+    кибернетических технологий, кибернетических тел, кибернетических разумов,
+    кибернетической цивилизации.
+    Мы приветствуем разработчиков, активистов, волонтеров, спонсоров. Присоединяйтесь
+    к нам и давайте вместе строить будущее!
+social_media:
+  telegram: +V4NavsdAyghjMjk1
+  discord: FnNtAnJJbN
+
+langs:
+  en: English
+  ru: Русский
+  eo: Esperanto
+
+# Please ignore everything bellow. Without it Jekyll throws a Liquid Exception.
+page:
+  description: please ignore, without this
