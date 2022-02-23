@@ -7,3 +7,7 @@ global:
 social_media:
   telegram: +1cGROo1fDxo0MWFl
   discord: FnNtAnJJbN
+
+# Please ignore everything bellow. Without it Jekyll throws a Liquid Exception.
+page:
+  description: please ignore, without this
