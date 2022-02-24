@@ -4,6 +4,15 @@ Please read through our [Contributing Guidelines](CONTRIBUTING.md).
 
 ## General setup
 
+#### Using Docker (easy way)
+
+- Install [Docker](https://www.docker.com)
+- Run `docker-compose up -d`
+
+The website can be accessed at http://localhost:4000.
+
+#### Without Docker (advanced way)
+
 - Install [Ruby](https://www.ruby-lang.org/en/documentation/installation/)
 - Install [Bundler](https://bundler.io)
 - Install [Jekyll](https://jekyllrb.com/docs/installation/)
@@ -18,9 +27,7 @@ Start development server:
 bundle exec jekyll serve
 ```
 
-Open your browser:
-- http://localhost:4000 - website content.
-- http://localhost:4000/admin - admin interface.
+The website can be accessed at http://localhost:4000.
 
 In case you need to rebuild the website:
 ```
