@@ -2,7 +2,8 @@ theme: jekyll-theme-cayman
 include: [".well-known"]
 
 repository: cyborgway-org/cyborgway-org
-baseurl: https://cyborgway.org/
+baseurl: ""
+url: "https://cyborgway.org"
 
 # Plugins
 plugins:
