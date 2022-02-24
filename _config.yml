@@ -3,7 +3,7 @@ include: [".well-known"]
 
 repository: cyborgway-org/cyborgway-org
 baseurl: ""
-url: "https://aleksnlp.com"
+url: "https://cyborgway.org/"
 
 # Plugins
 plugins:
