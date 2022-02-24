@@ -1,6 +1,9 @@
 theme: jekyll-theme-cayman
 include: [".well-known"]
 
+repository: cyborgway-org/cyborgway-org
+baseurl: https://cyborgway.org/
+
 # Plugins
 plugins:
   - jekyll-multiple-languages-plugin
