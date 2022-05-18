@@ -5,6 +5,9 @@ repository: cyborgway-org/cyborgway-org
 baseurl: ""
 url: "https://cyborgway.org"
 
+timezone: UTC
+encoding: "utf-8"
+
 # Plugins
 plugins:
   - jekyll-multiple-languages-plugin
