@@ -11,7 +11,7 @@ ORG_NAME="Cyborg Way"
 ORG_DBA="Cyborg Way"
 ORG_URL="https://cyborgway.org"
 ORG_LOGO="https://cyborgway.org/assets/images/logo.png"
-ORG_DESCRIPTION="Cyborg Way - the organization that seeks to accelerate the emergence of cybernetic technologies, cybernetic bodies, cybernetic minds, cybernetic civilization."
+ORG_DESCRIPTION="Cyborg Way - is an organization whose aim is to accelerate the emergence of cybernetic technologies, cybernetic bodies, cybernetic minds, cybernetic civilization."
 ORG_GITHUB="cyborgway-org"
 ORG_OFFICIAL_EMAIL="hello@cyborgway.org"
 ORG_SUPPORT_EMAIL="hello@cyborgway.org"
@@ -28,7 +28,7 @@ is_unlimited=true
 name="Donation US Dollar"
 desc="This asset backed 1:1 to the US dollar and backed funds are invested in of the mission and goals of the organization."
 conditions="This asset is given as a gratitude and appreciation for donations to the mission and goals of the organization."
-redemption_instructions="This asset can be exchanged in the future for products of the organization, bonuses, prizes and other valuable gifts."
+redemption_instructions="This asset can be exchanged in the future for products and technologies of the organization, bonuses, prizes and other valuable gifts."
 image="https://cyborgway.org/assets/images/logo.png"
 
 [[CURRENCIES]]
@@ -43,7 +43,7 @@ is_unlimited=true
 name="Donation Euro"
 desc="This asset backed 1:1 to the Euro and backed funds are invested in of the mission and goals of the organization."
 conditions="This asset is given as a gratitude and appreciation for donations to the mission and goals of the organization."
-redemption_instructions="This asset can be exchanged in the future for products of the organization, bonuses, prizes and other valuable gifts."
+redemption_instructions="This asset can be exchanged in the future for products and technologies of the organization, bonuses, prizes and other valuable gifts."
 image="https://cyborgway.org/assets/images/logo.png"
 
 [[CURRENCIES]]
@@ -58,7 +58,7 @@ is_unlimited=true
 name="Donation Ukrainian Hryvna"
 desc="This asset backed 1:1 to the Ukrainian Hryvna and backed funds are invested in of the mission and goals of the organization."
 conditions="This asset is given as a gratitude and appreciation for donations to the mission and goals of the organization."
-redemption_instructions="This asset can be exchanged in the future for products of the organization, bonuses, prizes and other valuable gifts."
+redemption_instructions="This asset can be exchanged in the future for products and technologies of the organization, bonuses, prizes and other valuable gifts."
 image="https://cyborgway.org/assets/images/logo.png"
 
 [[CURRENCIES]]
@@ -73,7 +73,7 @@ is_unlimited=true
 name="Donation Russian Ruble"
 desc="This asset backed 1:1 to the Russian Ruble and backed funds are invested in of the mission and goals of the organization."
 conditions="This asset is given as a gratitude and appreciation for donations to the mission and goals of the organization."
-redemption_instructions="This asset can be exchanged in the future for products of the organization, bonuses, prizes and other valuable gifts."
+redemption_instructions="This asset can be exchanged in the future for products and technologies of the organization, bonuses, prizes and other valuable gifts."
 image="https://cyborgway.org/assets/images/logo.png"
 
 [[CURRENCIES]]
@@ -88,5 +88,5 @@ is_unlimited=true
 name="Donation Belarusian Ruble"
 desc="This asset backed 1:1 to the Belarusian Ruble and backed funds are invested in of the mission and goals of the organization."
 conditions="This asset is given as a gratitude and appreciation for donations to the mission and goals of the organization."
-redemption_instructions="This asset can be exchanged in the future for products of the organization, bonuses, prizes and other valuable gifts."
+redemption_instructions="This asset can be exchanged in the future for products and technologies of the organization, bonuses, prizes and other valuable gifts."
 image="https://cyborgway.org/assets/images/logo.png"

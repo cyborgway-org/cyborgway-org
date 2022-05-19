@@ -1,12 +1,16 @@
 global:
   description: >
-    Cyborg Way - is an organization whose aim is to accelerate the emergence of cybernetic
-    technologies, cybernetic bodies, cybernetic minds, cybernetic civilization.
-    We welcome developers, activists, volunteers, sponsors. Join us and let’s build the
-    future together!
+    Cyborg Way - is an organization whose aim is to accelerate the emergence of cybernetic technologies, cybernetic bodies, cybernetic minds, cybernetic civilization.
+    We welcome developers, activists, volunteers, sponsors.
+    Join us and let’s build the future together!
 social_media:
   telegram: +1cGROo1fDxo0MWFl
-  discord: FnNtAnJJbN
+
+github:
+  link1: Request a New Feature
+  link2: Report a Bug
+  link3: Ask a Question
+  link4: Help with Translations
 
 langs:
   en: English

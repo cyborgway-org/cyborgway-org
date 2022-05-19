@@ -8,13 +8,13 @@ The repository is a part of the [Cyborg Way Organization](https://github.com/cyb
 
 ## Contributing
 
-Your contributions support our community. Contact us to receive donation tokens.
+Your contributions support our organization. Contact us to receive donation tokens.
 
 Please read through our [Contributing Guidelines](CONTRIBUTING.md) and [Installation Instructions](INSTALL.md).
 
 ## Donating
 
-Your donations support our community. Contact us to receive donation tokens.
+Your donations support our organization. Contact us to receive donation tokens.
 
 [EUR](https://stellar.expert/explorer/public/asset/EUR-GCIKFVTBQ4QPM3IWTOKXKLHKJLVJWHN6QAFIVMQEKGUPGBFLXMUGWXAB), [USD](https://stellar.expert/explorer/public/asset/USD-GCIKFVTBQ4QPM3IWTOKXKLHKJLVJWHN6QAFIVMQEKGUPGBFLXMUGWXAB), [RUB](https://stellar.expert/explorer/public/asset/RUB-GCIKFVTBQ4QPM3IWTOKXKLHKJLVJWHN6QAFIVMQEKGUPGBFLXMUGWXAB), [UAH](https://stellar.expert/explorer/public/asset/UAH-GCIKFVTBQ4QPM3IWTOKXKLHKJLVJWHN6QAFIVMQEKGUPGBFLXMUGWXAB), [BYN](https://stellar.expert/explorer/public/asset/BYN-GCIKFVTBQ4QPM3IWTOKXKLHKJLVJWHN6QAFIVMQEKGUPGBFLXMUGWXAB).
 
@@ -25,7 +25,6 @@ Join our Telegram ([EN](https://t.me/+1cGROo1fDxo0MWFl), [RU](https://t.me/+V4Na
 To request a new feature, submit a bug report, give us feedback, start a design discussion or have an idea to make this code better feel free to [open an issue](https://github.com/cyborgway-org/cyborgway-org/issues), or [create a pull request](https://github.com/cyborgway-org/cyborgway-org/pulls).
 
 Please send all security issues to [security@cyborgway.org](mailto:security@cyborgway.org).
-
 
 ## License
 

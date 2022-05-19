@@ -1,9 +1,16 @@
 global:
   description: >
-    Cyborg Way - Esperanto description
+    Cyborg Way - estas organizo, kies celo estas akceli la aperon de cibernetikaj teknologioj, cibernetikaj korpoj, cibernetikaj mensoj, cibernetika civilizacio.
+    Ni bonvenigas programistojn, aktivulojn, volontulojn, sponsorojn.
+    Aliĝu al ni kaj ni konstruu la estontecon kune!
 social_media:
-  telegram: none
-  discord: none
+  telegram: +1cGROo1fDxo0MWFl
+
+github:
+  link1: Request a New Feature
+  link2: Report a Bug
+  link3: Ask a Question
+  link4: Help with Translations
 
 langs:
   en: English
