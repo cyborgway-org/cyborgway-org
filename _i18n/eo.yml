@@ -14,8 +14,9 @@ github:
 
 langs:
   en: English
-  ru: Русский
   eo: Esperanto
+  uk: Українська
+  ru: Русский
 
 # Please ignore everything bellow. Without it Jekyll throws a Liquid Exception.
 page:

@@ -1,0 +1,23 @@
+global:
+  description: >
+    Cyborg Way – це організація, метою якої є прискорення появи кібернетичних технологій, кібернетичних тіл, кібернетичних розумів, кібернетичної цивілізації.
+    Ми вітаємо розробників, активістів, волонтерів, спонсорів.
+    Приєднуйтесь до нас та давайте разом будувати майбутнє!
+social_media:
+  telegram: +V4NavsdAyghjMjk1
+
+github:
+  link1: Запросити нову функцію
+  link2: Повідомити про помилку
+  link3: Задати питання
+  link4: Допомогти з перекладами
+
+langs:
+  en: English
+  eo: Esperanto
+  uk: Українська
+  ru: Русский
+
+# Please ignore everything bellow. Without it Jekyll throws a Liquid Exception.
+page:
+  description: please ignore, without this
