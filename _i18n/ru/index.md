@@ -1,36 +1,40 @@
-<h2 id="header-2">Road Map and Goals</h2>
+<h2 id="header-2">Дорожная карта и цели</h2>
 <p>
   <ul>
-    <li>Open new research laboratories and support existing research that contributes to the mission of the organization.</li>
-    <li>Create a technology of the isolated brain, connect to the Internet, connect to electronic senses, connect to all kinds of cybernetic bodies at will, create virtual platforms for communication.</li>
-    <li>Create a technology of cybernetic implants and prostheses.</li>
-    <li>Create a technology for the cybernetic body.</li>
-    <li>Create a technology of the cybernetic brain.</li>
-    <li>Create a technology to upgrade consciousness and mind.</li>
-    <li>Create a system of collective and swarm cybernetic intelligence.</li>
-    <li>Launch space stations to support the life of cybernetic minds.</li>
-    <li>Move cybernetic minds to space stations.</li>
-    <li>Exploration and study of the galaxy, star systems and planets.</li>
-    <li>Search for an answer to the cause and meaning of the existence of the universe.</li>
+    <li>Открыть новые исследовательские лаборатории, поддерживать существующие исследования, проекты, компании, движения, которые способствуют выполнению миссии организации.</li>
+    <li>Создать технологии кибернетических имплантатов и протезов для замены биологических аналогов.</li>
+    <li>Создать технологии биосенсоров для сбора биоданных о теле в режиме реального времени.</li>
+    <li>Создать технологии нейроинтерфейсов для усиления функций мозга, для прямой работы с компьютерными интерфейсами силой мысли, для расширения памяти мозга и мгновенной загрузки информации (обучение, навыки, языки), для подключения к глобальной сети коллективного интеллекта для обмена знаниями и совместного принятия решений в режиме реального времени.</li>
+    <li>Создать технологию изолированного биологического мозга, иметь возможность подключаться к интернету, к электронным органам чувств, к любым видам кибернетических тел, аватаров и устройств, к виртуальным платформам для общения и к метавселенным.</li>
+    <li>Создать технологию кибернетического тела, пригодного для трансплантации в него изолированного биологического мозга.</li>
+    <li>Создать технологию кибернетического мозга методом постепенной замены биологических нейронов на электронные нейроны.</li>
+    <li>Создать технологию кибернетического тела из нанороботов и тела-голограммы, которое будет управляться силой мысли и менять свою форму под этим воздействием.</li>
+    <li>Создать технологию для улучшения сознания и интеллекта.</li>
+    <li>Создать технологию загрузки и переноса сознания.</li>
+    <li>Создать технологию коллективного и роевого интеллекта для кибернетических личностей.</li>
+    <li>Создать и запустить космические станции-колонии, чтобы поддерживать жизнь кибернетических личностей в космосе, вне планет или других естественных космических объектов с гравитацией и биологической экосистемой.</li>
+    <li>Переместить кибернетические личности на космические станции-колонии, чтобы начать новую эпоху космической кибернетической цивилизации.</li>
+    <li>Исследовать и изучать галактики, звездные системы и планеты в поисках новых знаний и других цивилизаций.</li>
+    <li>Искать ответы на причину и смысл существования Вселенной.</li>
   </ul>
 </p>
 <hr/>
-<h2 id="header-2">Tokenomics</h2>
+<h2 id="header-2">Токеномика</h2>
 <p>
-  We created donation tokens to use the power of cryptocurrencies to fund futuristic cybernetic technologies. Donation tokens can be obtained for financial donations and for team member contributions.
+  Мы создали токены пожертвований, чтобы использовать мощь криптовалют для финансирования футуристических кибернетических технологий. Токены пожертвований возможно получить в награду за финансовые пожертвования и за помощь организации. Токены пожертвований привязаны к фиатным валютам в виде стейблкоинов и могут свободно обмениваться между собой по рыночному курсу.
 </p>
 <p>
-  Token holders get:
+  Держатели токенов получают:
   <ul>
-    <li>Access to the Stellar Decentralized Exchange (SDEX) to exchange tokens with other holders.</li>
-    <li>Right to participate in strategic voting on the activities and plans of the organization.</li>
-    <li>Subscription to a service of personalized recommendations for cyborgs.</li>
-    <li>Discounts and bonuses in stores, services and outlets of the organization's partners.</li>
-    <li>Future opportunity to exchange tokens for products and technologies of the organization, bonuses, prizes and other valuable gifts.</li>
+    <li>Доступ к децентрализованной бирже Stellar (SDEX) для свободной торговли токенами с другими пользователями Stellar.</li>
+    <li>Право на участие в стратегических голосованиях по вопросам деятельности и планов организации.</li>
+    <li>Подписку на сервис персональных рекомендаций для киборгов.</li>
+    <li>Скидки и бонусы в магазинах, сервисах и торговых точках партнеров организации.</li>
+    <li>В будущем возможность обменять токены на продукты и технологии организации, бонусы, призы и другие ценные подарки.</li>
   </ul>
 </p>
 <p>
-  Tokens:
+  Токены:
   <a href="https://stellar.expert/explorer/public/asset/EUR-GCIKFVTBQ4QPM3IWTOKXKLHKJLVJWHN6QAFIVMQEKGUPGBFLXMUGWXAB" target="_blank">EUR</a>,
   <a href="https://stellar.expert/explorer/public/asset/USD-GCIKFVTBQ4QPM3IWTOKXKLHKJLVJWHN6QAFIVMQEKGUPGBFLXMUGWXAB" target="_blank">USD</a>,
   <a href="https://stellar.expert/explorer/public/asset/RUB-GCIKFVTBQ4QPM3IWTOKXKLHKJLVJWHN6QAFIVMQEKGUPGBFLXMUGWXAB" target="_blank">RUB</a>,
@@ -38,25 +42,25 @@
   <a href="https://stellar.expert/explorer/public/asset/BYN-GCIKFVTBQ4QPM3IWTOKXKLHKJLVJWHN6QAFIVMQEKGUPGBFLXMUGWXAB" target="_blank">BYN</a>.
 </p>
 <hr/>
-<h2 id="header-2">Donation</h2>
+<h2 id="header-2">Пожертвования</h2>
 <p>
-  Your donations support our organization and our mission. Contact us to receive donation tokens.
+  Ваши пожертвования поддерживают нашу организацию и нашу миссию. Свяжитесь с нами, чтобы получить токены пожертвований в знак благодарности и признания.
 </p>
 <hr/>
-<h2 id="header-2">Contribution</h2>
+<h2 id="header-2">Помощь/Вклад</h2>
 <p>
-  Your contributions support our organization and our mission. Contact us to receive donation tokens.
+  Ваши помощь/вклад поддерживают нашу организацию и нашу миссию. Свяжитесь с нами, чтобы получить токены пожертвований в знак благодарности и признания.
 </p>
 <hr/>
-<h2 id="header-2">Subscription</h2>
+<h2 id="header-2">Подписка</h2>
 <p>
-  Use our telegram bot «<a href="https://t.me/cyborgway_bot" target="_blank">Cyborg Way Bot</a>» (in development) to connect to personalized newsletter.
+  Используйте нашего телеграм-бота «<a href="https://t.me/cyborgway_bot" target="_blank">Cyborg Way Bot</a>» (в разработке) для подключения к персонализированной рассылке новостей.
 </p>
 <p>
-  Subscribers will receive updates on our organization's work, conferences, media coverage, education program activities, and outreach efforts. Updates will be in the form of a personalized newsletter and the occasional special announcement. You will have the option to unsubscribe at any time, and we will not share your private information with any outside parties.
+  Подписчики будут получать новости о работе нашей организации, конференциях, освещении в СМИ, образовательных программах и информационно-просветительских мероприятиях. Обновления будут в форме персонализированного информационного бюллетеня и периодических специальных объявлений. У вас будет возможность отказаться от подписки в любое время, и мы не будем передавать вашу личную информацию третьим лицам.
 </p>
 <hr/>
-<h2 id="header-2">Tell your friends</h2>
+<h2 id="header-2">Расскажите вашим друзьям</h2>
 <p>
-  Even if you can't help us directly yourself, you may know a friend or organization who can. Please feel free to share any of the contents on this site.
+  Даже если вы сами не можете помочь нам напрямую, вы можете знать друга или организацию, которые могут это сделать. Пожалуйста, не стесняйтесь делиться любым контентом на этом сайте.
 </p>
