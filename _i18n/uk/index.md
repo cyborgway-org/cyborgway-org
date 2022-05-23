@@ -1,7 +1,7 @@
 <h2 id="header-2">Road Map and Goals</h2>
 <p>
   <ul>
-    <li>Open new research laboratories, support existing research, projects, companies, movements that contribute to the mission of the organization.</li>
+    <li>Open new research laboratories, support existing research, projects, companies and movements that contribute to the mission of the organization.</li>
     <li>Create technologies of cybernetic implants and prostheses to replace biological analogues.</li>
     <li>Create technologies of biosensors to take biodata about the body in real time.</li>
     <li>Create technologies of neural interfaces to enhance brain functions, to work directly with computer interfaces with the power of thought, to expand brain memory and instantly download information (learning, skills, languages), to connect to a global network of collective intelligence for exchange knowledge and collaborative decision-making in real time.</li>
