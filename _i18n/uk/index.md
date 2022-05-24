@@ -1,4 +1,4 @@
-<h2 id="header-2">Road Map and Goals</h2>
+<h2 id="header-2">Goals</h2>
 <p>
   <ul>
     <li>Open new research laboratories, support existing research, projects, companies and movements that contribute to the mission of the organization.</li>
