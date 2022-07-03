@@ -9,8 +9,8 @@
 <header class="page-header" role="banner">
     <h1 class="project-name">{{ page.title | default: site.title }}</h1>
     <h2 class="project-tagline"> {% translate page.description %} </h2>
-    <a href="https://t.me/{% translate social_media.telegram %}" class="btn" title="Telegram"><i class="fa-brands fa-telegram"></i></a>
-    <a href="https://discord.gg/FnNtAnJJbN" class="btn" title="Discord"><i class="fa-brands fa-discord"></i></a>
+    <a href="https://t.me/{% translate social_media.telegram %}" class="btn" title="Telegram" rel="nofollow noreferrer noopener" target="_blank"><i class="fa-brands fa-telegram"></i></a>
+    <a href="https://discord.gg/FnNtAnJJbN" class="btn" title="Discord" rel="nofollow noreferrer noopener" target="_blank"><i class="fa-brands fa-discord"></i></a>
     {% include navbar.html %}
 </header>
 
@@ -18,10 +18,12 @@
     {{ content }}
 
     <footer class="site-footer">
-        <span class="site-footer-link1"><a href="https://github.com/cyborgway-org/cyborgway-org/issues">{% translate github.link1 %}</a></span><br/>
-        <span class="site-footer-link2"><a href="https://github.com/cyborgway-org/cyborgway-org/issues">{% translate github.link2 %}</a></span><br/>
-        <span class="site-footer-link3"><a href="https://github.com/cyborgway-org/cyborgway-org/issues">{% translate github.link3 %}</a></span><br/>
-        <span class="site-footer-link4"><a href="https://github.com/cyborgway-org/cyborgway-org/blob/main/CONTRIBUTING.md">{% translate github.link4 %}</a></span><br/>
+        <span class="site-footer-link1"><a href="https://github.com/cyborgway-org/cyborgway-org/issues" rel="nofollow noreferrer noopener" target="_blank">{% translate github.link1 %}</a></span><br/>
+        <span class="site-footer-link2"><a href="https://github.com/cyborgway-org/cyborgway-org/issues" rel="nofollow noreferrer noopener" target="_blank">{% translate github.link2 %}</a></span><br/>
+        <span class="site-footer-link3"><a href="https://github.com/cyborgway-org/cyborgway-org/issues" rel="nofollow noreferrer noopener" target="_blank">{% translate github.link3 %}</a></span><br/>
+        <span class="site-footer-link4"><a href="https://github.com/cyborgway-org/cyborgway-org/blob/main/CONTRIBUTING.md" rel="nofollow noreferrer noopener" target="_blank">{% translate github.link4 %}</a></span><br/>
+        <br/>
+        <span class="site-footer-link5"><a href="https://awesome-transhumanism.cyborgway.org" rel="nofollow noreferrer noopener" target="_blank">Awesome Transhumanism</a></span><br/>
     </footer>
 </main>
 </body>
