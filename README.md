@@ -1,26 +1,26 @@
-<h1 align="center">Cyborg Way</h1>
+<h1 align="center">Cyborg Way - Creating Cybernetic Technologies for Cyborgs</h1>
 
-Cyborg Way - is an organization whose aim is to accelerate the emergence of cybernetic technologies, cybernetic bodies, cybernetic minds, cybernetic civilization. We welcome developers, activists, volunteers, sponsors. Join us and let’s build the future together!
+We aim to accelerate the emergence of cybernetic technologies, cybernetic bodies, cybernetic minds, cybernetic civilization, as well as expand the physical and mental capabilities of our members so that they can move into a fully cybernetic life form.
 
-Welcome to our website https://cyborgway.org.
+We welcome everyone who shares our mission and is ready to contribute to the development of the community - developers, activists, volunteers, employees, partners, sponsors. Join us and together we will create our future!
+
+Welcome to our website https://cyborgway.org
 
 The repository is a part of the [Cyborg Way Organization](https://github.com/cyborgway-org). This project and everyone participating in it is governed by the [Code of Conduct](CODE_OF_CONDUCT.md).
 
 ## Contributing
 
-Your contributions support our organization. Contact us to receive donation tokens.
+Your contributions support our organization and our mission. Contact us to receive donation tokens in in gratitude and recognition.
 
 Please read through our [Contributing Guidelines](CONTRIBUTING.md) and [Installation Instructions](INSTALL.md).
 
 ## Donating
 
-Your donations support our organization. Contact us to receive donation tokens.
+Your donations support our organization and our mission. Contact us to receive donation tokens in gratitude and recognition.
 
 [EUR](https://stellar.expert/explorer/public/asset/EUR-GCIKFVTBQ4QPM3IWTOKXKLHKJLVJWHN6QAFIVMQEKGUPGBFLXMUGWXAB), [USD](https://stellar.expert/explorer/public/asset/USD-GCIKFVTBQ4QPM3IWTOKXKLHKJLVJWHN6QAFIVMQEKGUPGBFLXMUGWXAB), [RUB](https://stellar.expert/explorer/public/asset/RUB-GCIKFVTBQ4QPM3IWTOKXKLHKJLVJWHN6QAFIVMQEKGUPGBFLXMUGWXAB), [UAH](https://stellar.expert/explorer/public/asset/UAH-GCIKFVTBQ4QPM3IWTOKXKLHKJLVJWHN6QAFIVMQEKGUPGBFLXMUGWXAB), [BYN](https://stellar.expert/explorer/public/asset/BYN-GCIKFVTBQ4QPM3IWTOKXKLHKJLVJWHN6QAFIVMQEKGUPGBFLXMUGWXAB).
 
 ## Feedback
-
-Join our [Discord](https://discord.gg/FnNtAnJJbN).
 
 To request a new feature, submit a bug report, give us feedback, start a design discussion or have an idea to make this code better feel free to [open an issue](https://github.com/cyborgway-org/cyborgway-org/issues), or [create a pull request](https://github.com/cyborgway-org/cyborgway-org/pulls).
 
