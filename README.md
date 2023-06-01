@@ -4,7 +4,7 @@ We aim to accelerate the emergence of cybernetic technologies, cybernetic bodies
 
 We welcome everyone who shares our mission and is ready to contribute to the development of the community - developers, activists, volunteers, employees, partners, sponsors. Join us and together we will create our future!
 
-Welcome to our website https://cyborgway.org
+Welcome to our website https://cyborgway.org and telegram bot https://t.me/cyborgway_bot.
 
 The repository is a part of the [Cyborg Way Organization](https://github.com/cyborgway-org). This project and everyone participating in it is governed by the [Code of Conduct](CODE_OF_CONDUCT.md).
 
