@@ -1,4 +1,4 @@
-<h1 align="center">Cyborg Way - Creating Cybernetic Technologies for Cyborgs</h1>
+<h1 align="center">Cyborg Way - Creating Cybernetic Future for Cyborgs</h1>
 
 We aim to accelerate the emergence of cybernetic technologies, cybernetic bodies, cybernetic minds, cybernetic civilization, as well as expand the physical and mental capabilities of our members so that they can move into a fully cybernetic life form.
 
