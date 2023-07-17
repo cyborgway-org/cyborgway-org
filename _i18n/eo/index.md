@@ -10,7 +10,7 @@
     <li>Create a technology of the isolated biological brain, be able to connect to the internet, to electronic sense organs, to any kind of cybernetic bodies, avatars and devices, to virtual platforms for communication and to metaverses.</li>
     <li>Create a technology of cybernetic body suitable for transplanting an isolated biological brain into it.</li>
     <li>Create a technology of cybernetic brain by gradually replacing biological neurons with electronic neurons.</li>
-    <li>Create a technology of cybernetic body from nanorobots and a hologram body, which will be controlled by the power of thought and change its shape under this influence.</li>
+    <li>Create a technology of cybernetic body from nanorobots, which will be controlled by the power of thought and change its shape under this influence.</li>
     <li>Create a technology to upgrade consciousness and intelligence, including the development of cognitive abilities and memory.</li>
     <li>Create a technology for uploading and transferring consciousness.</li>
     <li>Create a technology of collective and swarm intelligence for cybernetic personalities.</li>
