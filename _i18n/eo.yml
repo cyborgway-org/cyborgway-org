@@ -1,10 +1,9 @@
 global:
   description: >
-    Cyborg Way - Kreante Cibernetikan Estontecon por Ciborgoj.
-    Ni celas akceli la aperon de cibernetikaj teknologioj, cibernetikaj korpoj, cibernetikaj mensoj, cibernetika civilizo, kaj ankaŭ pligrandigi la fizikajn kaj mensajn kapablojn de niaj partoprenantoj por ke ili povu moviĝi en plene cibernetikan vivformon.
-    Ni bonvenigas ĉiujn, kiuj kunhavas nian mision kaj pretas kontribui al la evoluo de la komunumo - programistoj, aktivuloj, volontuloj, dungitoj, partneroj, sponsoroj.
-    Konektiĝu kun samideanoj, interŝanĝu scion kaj sperton, formi la estontecon kune. Malŝlosu vian potencialon kaj akceptu la estontecon kiel cibernetikan estaĵon kun plibonigitaj fizikaj kaj mensaj kapabloj. Fariĝu Cyborg! Aliĝu al Cyborgs! Evoluu!
-
+    Cyborg Way Corp (CWC) - La Vojo de Cyborg - Kreante Cibernetikan Estontecon por Ciborgoj !<br /><br />
+    Ni celas akceli la disvolviĝon de cibernetikaj teknologioj, cibernetikaj korpoj, cibernetikaj mensoj, cibernetika civilizo, kaj ankaŭ pligrandigi la fizikajn kaj mensajn kapablojn de niaj membroj por ke ili povu moviĝi en plene senmortan cibernetikan vivformon.<br /><br />
+    Ni bonvenigas ĉiujn, kiuj kunhavas nian mision kaj pretas kontribui por atingi niajn celojn - aktivuloj, programistoj, dungitoj, partneroj, sponsoroj. Aliĝu al ni, dividu ideojn, scion kaj spertojn, kaj formu la estontecon kune.<br /><br />
+    Malŝlosu vian potencialon kaj brakumu la estontecon kiel senmorta cibernetika estaĵo kun plifortigitaj fizikaj kaj mensaj kapabloj. Fariĝu Cyborg! Aliĝu al Cyborgs! Evoluu!
 github:
   link1: Request a New Feature
   link2: Report a Bug
@@ -14,8 +13,8 @@ github:
 langs:
   en: English
   eo: Esperanto
-  uk: Українська
   ru: Русский
+  uk: Українська
 
 # Please ignore everything bellow. Without it Jekyll throws a Liquid Exception.
 page:

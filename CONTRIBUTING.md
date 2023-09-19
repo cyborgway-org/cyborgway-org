@@ -2,6 +2,8 @@
 
 First off, thanks for taking the time to contribute!
 
+Please read through our [Installation Instructions](INSTALL.md).
+
 ## Getting Started
 
 When contributing to this repository, please first discuss the change you wish to make via issue, email, or any other method with the core team before making a change.

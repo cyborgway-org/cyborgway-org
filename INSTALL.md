@@ -18,11 +18,13 @@ The website can be accessed at http://localhost:4000.
 - Install [Jekyll](https://jekyllrb.com/docs/installation/)
 
 Before you start, install dependencies:
+
 ```
 bundle install
 ```
 
 Start development server:
+
 ```
 bundle exec jekyll serve
 ```
@@ -30,11 +32,13 @@ bundle exec jekyll serve
 The website can be accessed at http://localhost:4000.
 
 In case you need to rebuild the website:
+
 ```
 bundle exec jekyll build
 ```
 
 In case you need to update dependencies:
+
 ```
 bundle update listen
 ```
