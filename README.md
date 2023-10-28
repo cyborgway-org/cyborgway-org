@@ -12,15 +12,13 @@ The repository is a part of the [Cyborg Way Organization](https://github.com/cyb
 
 ## Contributing
 
-Your contributions support our organization and our mission. Contact us to receive donation tokens in in gratitude and recognition.
+Your contributions support our Organization and our mission.
 
 Please read through our [Contributing Guidelines](CONTRIBUTING.md) and [Installation Instructions](INSTALL.md).
 
 ## Donating
 
-Your donations support our organization and our mission. Contact us to receive donation tokens in gratitude and recognition.
-
-[EUR](https://stellar.expert/explorer/public/asset/EUR-GCIKFVTBQ4QPM3IWTOKXKLHKJLVJWHN6QAFIVMQEKGUPGBFLXMUGWXAB), [USD](https://stellar.expert/explorer/public/asset/USD-GCIKFVTBQ4QPM3IWTOKXKLHKJLVJWHN6QAFIVMQEKGUPGBFLXMUGWXAB), [RUB](https://stellar.expert/explorer/public/asset/RUB-GCIKFVTBQ4QPM3IWTOKXKLHKJLVJWHN6QAFIVMQEKGUPGBFLXMUGWXAB), [UAH](https://stellar.expert/explorer/public/asset/UAH-GCIKFVTBQ4QPM3IWTOKXKLHKJLVJWHN6QAFIVMQEKGUPGBFLXMUGWXAB), [BYN](https://stellar.expert/explorer/public/asset/BYN-GCIKFVTBQ4QPM3IWTOKXKLHKJLVJWHN6QAFIVMQEKGUPGBFLXMUGWXAB).
+Your donations support our Organization and our mission.
 
 ## Feedback
 
