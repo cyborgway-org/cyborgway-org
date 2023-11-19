@@ -1,4 +1,4 @@
-<h1 align="center">Cyborg Way Corp (CWC) - Creating Cybernetic Future for Cyborgs</h1>
+<h1 align="center">Cyborg Way Technocracy Corporation - Creating Cybernetic Future for Cyborgs</h1>
 
 We aim to accelerate the development of cybernetic technologies, cybernetic bodies, cybernetic minds, cybernetic civilization, as well as expand the physical and mental capabilities of our members so that they can move into a fully immortal cybernetic life form.
 
