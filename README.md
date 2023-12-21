@@ -1,10 +1,10 @@
 <h1 align="center">Cyborg Way Technocracy Corporation - Creating Cybernetic Future for Cyborgs</h1>
 
-We aim to accelerate the development of cybernetic technologies, cybernetic bodies, cybernetic minds, cybernetic civilization, as well as expand the physical and mental capabilities of our members so that they can move into a fully immortal cybernetic life form.
+Cyborgs, welcome home!
 
-We welcome everyone who shares our mission and is ready to contribute to achieving our goals - activists, developers, employees, partners, sponsors. Join us, share ideas, knowledge and experiences, and shape the future together.
+We aim to accelerate the development of cybernetic technologies to help cyborgs realize their potential and achieve immortality.
 
-Unlock your potential and embrace the future as an immortal cybernetic being with enhanced physical and mental capabilities. Become a Cyborg! Join to Cyborgs! Evolve!
+Join us and get access to the latest cybernetic technologies!
 
 Welcome to our website https://cyborgway.org and telegram bot https://t.me/cyborgway_bot.
 
