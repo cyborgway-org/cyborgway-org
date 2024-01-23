@@ -4,7 +4,7 @@ services:
   site:
     image: jekyll/jekyll:4.2.2
     command: jekyll serve --verbose
-    container_name: 'cyborgway-website'
+    container_name: 'cyborgway-org'
     ports:
       - 4000:4000
     volumes:

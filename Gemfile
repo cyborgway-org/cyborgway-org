@@ -24,10 +24,9 @@ platforms :mingw, :x64_mingw, :mswin, :jruby do
   gem "tzinfo", "~> 2.0"
   gem "tzinfo-data"
 end
-
 # Performance-booster for watching directories on Windows
 gem "wdm", "~> 0.1.1", :platforms => [:mingw, :x64_mingw, :mswin]
-
+# WEBrick is an HTTP server toolkit that can be configured as an HTTPS server, a proxy server, and a virtual-host server
 gem "webrick", "~> 1.8"
-
-gem 'bundler', '2.4.22'
+# Bug https://github.com/jeffreytse/jekyll-deploy-action/issues/72
+gem "bundler", "2.4.22"

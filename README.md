@@ -2,7 +2,7 @@
 
 Cyborgs, welcome home!
 
-We aim to accelerate the development of cybernetic technologies to help cyborgs realize their potential and achieve immortality.
+With the support of our members, we aim to accelerate the development of cybernetic technologies to help cyborgs unlock their full potential and achieve both biological and cybernetic immortality within the next 3-10 years.
 
 Join us and get access to the latest cybernetic technologies!
 
