@@ -1,0 +1,29 @@
+# Cyborg Way Stellar Anchor <https://cyborgway.org>
+# https://github.com/stellar/stellar-protocol/tree/master/ecosystem
+NETWORK_PASSPHRASE="Public Global Stellar Network ; September 2015"
+VERSION="2.5.0"
+
+ACCOUNTS=[
+"GDSUUDRGLKPFMTROF7SPXJHK7SNS4JNAQ6JJ7WMGHNCSCIIKDOY4MWEX"
+]
+
+[DOCUMENTATION]
+ORG_NAME="Cyborg Way"
+ORG_DBA="Cyborg Way"
+ORG_URL="https://cyborgway.org"
+ORG_LOGO="https://cyborgway.org/assets/images/logo.png"
+ORG_DESCRIPTION="Cyborg Way - Creating Cybernetic Future for Cyborgs."
+ORG_GITHUB="cyborgway-org"
+ORG_OFFICIAL_EMAIL="hello@cyborgway.org"
+ORG_SUPPORT_EMAIL="hello@cyborgway.org"
+
+[[CURRENCIES]]
+code="CWC"
+issuer="GDSUUDRGLKPFMTROF7SPXJHK7SNS4JNAQ6JJ7WMGHNCSCIIKDOY4MWEX"
+status="live"
+display_decimals=7
+anchor_asset_type="other"
+is_unlimited=true
+name="CWC"
+desc="CWC are crypto-shares in the form of investment fund assets that you can purchase if you want to support its activities and have your own stake of the fund. The top 20 shareholders automatically become members of the Fund's Board of Directors, participating in the formulation and adoption of all decisions, including the collaborative management of this asset."
+image="https://cyborgway.org/assets/images/logo.png"

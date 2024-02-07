@@ -36,7 +36,18 @@
 <hr/>
 <h2 id="header-2">Donation</h2>
 <p>
-  Your donations support our Organization and our mission.
+  Your donations support our Organization and our mission. You can make a donation through the Stellar blockchain in the form of any tokens available for our <a href="https://stellar.expert/explorer/public/account/GDSUUDRGLKPFMTROF7SPXJHK7SNS4JNAQ6JJ7WMGHNCSCIIKDOY4MWEX" target="_blank">Stellar account</a>.
+</p>
+<hr/>
+<h2 id="header-2">Investing</h2>
+<p>
+  Invest using our investment <a href="https://stellar.expert/explorer/public/account/CWC-GDSUUDRGLKPFMTROF7SPXJHK7SNS4JNAQ6JJ7WMGHNCSCIIKDOY4MWEX" target="_blank">CWC Stellar asset</a> while supporting our Organization and our mission.
+</p>
+<p>
+  CWC are crypto-shares in the form of investment fund assets that you can purchase if you want to support its activities and have your own stake of the fund.
+</p>
+<p>
+  The top 20 shareholders automatically become members of the Fund's Board of Directors, participating in the formulation and adoption of all decisions, including the collaborative management of this asset.
 </p>
 <hr/>
 <h2 id="header-2">Tell your friends</h2>

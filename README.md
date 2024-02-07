@@ -6,7 +6,7 @@ With the support of our members, we aim to accelerate the development of cyberne
 
 Join us and get access to the latest cybernetic technologies!
 
-Welcome to our website https://cyborgway.org and telegram bot https://t.me/cyborgway_bot.
+Welcome to our website [CyborgWay.org](https://cyborgway.org) and telegram bot [@CyborgWay_bot](https://t.me/cyborgway_bot).
 
 The repository is a part of the [Cyborg Way Organization](https://github.com/cyborgway-org). This project and everyone participating in it is governed by the [Code of Conduct](CODE_OF_CONDUCT.md).
 
@@ -18,7 +18,15 @@ Please read through our [Contributing Guidelines](CONTRIBUTING.md) and [Installa
 
 ## Donating
 
-Your donations support our Organization and our mission.
+Your donations support our Organization and our mission. You can donate using any assets available for our [Stellar account](https://stellar.expert/explorer/public/account/GDSUUDRGLKPFMTROF7SPXJHK7SNS4JNAQ6JJ7WMGHNCSCIIKDOY4MWEX).
+
+## Investing
+
+Invest using our investment [CWC Stellar asset](https://stellar.expert/explorer/public/account/CWC-GDSUUDRGLKPFMTROF7SPXJHK7SNS4JNAQ6JJ7WMGHNCSCIIKDOY4MWEX) while supporting our Organization and our mission.
+
+CWC are crypto-shares in the form of investment fund assets that you can purchase if you want to support its activities and have your own stake of the fund.
+
+The top 20 shareholders automatically become members of the Fund's Board of Directors, participating in the formulation and adoption of all decisions, including the collaborative management of this asset.
 
 ## Feedback
 
