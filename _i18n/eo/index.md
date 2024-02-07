@@ -41,7 +41,7 @@
 <hr/>
 <h2 id="header-2">Investing</h2>
 <p>
-  Invest using our investment <a href="https://stellar.expert/explorer/public/account/CWC-GDSUUDRGLKPFMTROF7SPXJHK7SNS4JNAQ6JJ7WMGHNCSCIIKDOY4MWEX" target="_blank">CWC Stellar asset</a> while supporting our Organization and our mission.
+  Invest using our investment <a href="https://stellar.expert/explorer/public/asset/CWC-GDSUUDRGLKPFMTROF7SPXJHK7SNS4JNAQ6JJ7WMGHNCSCIIKDOY4MWEX" target="_blank">CWC Stellar asset</a> while supporting our Organization and our mission.
 </p>
 <p>
   CWC are crypto-shares in the form of investment fund assets that you can purchase if you want to support its activities and have your own stake of the fund.

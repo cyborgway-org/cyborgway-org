@@ -18,11 +18,11 @@ Please read through our [Contributing Guidelines](CONTRIBUTING.md) and [Installa
 
 ## Donating
 
-Your donations support our Organization and our mission. You can donate using any assets available for our [Stellar account](https://stellar.expert/explorer/public/account/GDSUUDRGLKPFMTROF7SPXJHK7SNS4JNAQ6JJ7WMGHNCSCIIKDOY4MWEX).
+Your donations support our Organization and our mission. Donate using any assets available for our [Stellar account](https://stellar.expert/explorer/public/account/GDSUUDRGLKPFMTROF7SPXJHK7SNS4JNAQ6JJ7WMGHNCSCIIKDOY4MWEX).
 
 ## Investing
 
-Invest using our investment [CWC Stellar asset](https://stellar.expert/explorer/public/account/CWC-GDSUUDRGLKPFMTROF7SPXJHK7SNS4JNAQ6JJ7WMGHNCSCIIKDOY4MWEX) while supporting our Organization and our mission.
+Invest using our investment [CWC Stellar asset](https://stellar.expert/explorer/public/asset/CWC-GDSUUDRGLKPFMTROF7SPXJHK7SNS4JNAQ6JJ7WMGHNCSCIIKDOY4MWEX) while supporting our Organization and our mission.
 
 CWC are crypto-shares in the form of investment fund assets that you can purchase if you want to support its activities and have your own stake of the fund.
 
