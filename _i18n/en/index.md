@@ -36,7 +36,7 @@
 <hr/>
 <h2 id="header-2">Donation</h2>
 <p>
-  Your donations support our Organization and our mission. You can make a donation through the Stellar blockchain in the form of any tokens available for our <a href="https://stellar.expert/explorer/public/account/GDSUUDRGLKPFMTROF7SPXJHK7SNS4JNAQ6JJ7WMGHNCSCIIKDOY4MWEX" target="_blank">Stellar account</a>.
+  Your donations support our Organization and our mission. Donate using any assets available for our <a href="https://stellar.expert/explorer/public/account/GDSUUDRGLKPFMTROF7SPXJHK7SNS4JNAQ6JJ7WMGHNCSCIIKDOY4MWEX" target="_blank">Stellar account</a>.
 </p>
 <hr/>
 <h2 id="header-2">Investing</h2>

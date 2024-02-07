@@ -36,7 +36,7 @@
 <hr/>
 <h2 id="header-2">Пожертвования</h2>
 <p>
-  Ваши пожертвования поддерживают нашу Организацию и нашу миссию. Вы можете сделать пожертвование через блокчейн Stellar в виде любых токенов, доступных для нашего <a href="https://stellar.expert/explorer/public/account/GDSUUDRGLKPFMTROF7SPXJHK7SNS4JNAQ6JJ7WMGHNCSCIIKDOY4MWEX" target="_blank">Stellar аккаунта</a>.
+  Ваши пожертвования поддерживают нашу Организацию и нашу миссию. Сделайте пожертвование, используя любые активы, доступные для нашего <a href="https://stellar.expert/explorer/public/account/GDSUUDRGLKPFMTROF7SPXJHK7SNS4JNAQ6JJ7WMGHNCSCIIKDOY4MWEX" target="_blank">Stellar аккаунта</a>.
 </p>
 <hr/>
 <h2 id="header-2">Инвестирование</h2>
