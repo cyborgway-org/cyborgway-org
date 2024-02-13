@@ -26,7 +26,7 @@ Invest using our investment [CWC Stellar asset](https://stellar.expert/explorer/
 
 CWC are crypto-shares in the form of investment fund assets that you can purchase if you want to support its activities and have your own stake of the fund.
 
-The top 20 shareholders automatically become members of the Fund's Board of Directors, participating in the formulation and adoption of all decisions, including the collaborative management of this asset.
+The top 20 shareholders are members of the Fund's Board of Directors, participating in the formulation and adoption of all decisions, including the collaborative management of this asset.
 
 ## Feedback
 
