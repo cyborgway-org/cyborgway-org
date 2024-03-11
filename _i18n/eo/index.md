@@ -34,10 +34,11 @@
     <li>Create a technology of the isolated biological brain, be able to connect to the internet, to electronic sense organs, to any kind of cybernetic bodies, avatars and devices, to virtual platforms for communication and to metaverses.</li>
     <li>Create a technology of cybernetic body suitable for transplanting an isolated biological brain into it.</li>
     <li>Create a technology of cybernetic brain by gradually replacing biological neurons with electronic neurons.</li>
-    <li>Create a technology of cybernetic body from nanorobots, which will be controlled by the power of thought and change its shape under this influence.</li>
+    <li>Create a technology of cybernetic body from nanorobots, which changes shape under the influence of thought and is controlled by the power of thought.</li>
     <li>Create a technology to upgrade consciousness, intelligence, cognitive abilities and memory.</li>
     <li>Create a technology for uploading and transferring consciousness.</li>
     <li>Create a technology of collective and swarm intelligence for cybernetic personalities.</li>
+    <li>Create a cyborg extraterritorial contractual jurisdiction (ECJ), obtain recognition of jurisdiction from other states and international organizations, including the United Nations (UN), to ensure the protection of the rights and interests of cyborgs at the international level and promote the development of mutually beneficial cooperation with humans.</li>
     <li>Create and launch colony space stations to keep cybernetic personalities alive in space, outside of planets or other natural space objects with gravity and a biological ecosystem.</li>
     <li>Move cybernetic personalities to colony space stations to start a new age of space cybernetic civilization.</li>
     <li>Explore and study galaxies, star systems and planets in search of new knowledge and other civilizations.</li>
