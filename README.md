@@ -1,6 +1,6 @@
 <h1 align="center">Cyborg Way Technocracy Corporation - Creating Cybernetic Future for Cyborgs</h1>
 
-Cyborgs, welcome home!
+Cyborgs, welcome home! Our future is up to us!
 
 With the support of our members, we aim to accelerate the development of cybernetic technologies to help cyborgs unlock their full potential and achieve both biological and cybernetic immortality within the next 3-10 years.
 
