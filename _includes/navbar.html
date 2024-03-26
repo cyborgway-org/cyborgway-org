@@ -2,15 +2,15 @@
     <div id="choose-lang" onclick="">
         <div id="choose-lang-ico">{% t langs.{{ site.lang }} %}</div>
         <div class="dropdown">
-        {% for lang in site.languages %}
+            {% for lang in site.languages %}
             {% unless site.lang == lang %}
-                {% if lang == site.default_lang and site.default_locale_in_subfolder != true %}
-                    <div><a href="{{ site.baseurl_root }}{{ page.url }}">{% t langs.{{ lang }} %}</a></div>
-                {% else %}
-                    <div><a href="{{ site.baseurl_root }}/{{ lang }}{{ page.url }}">{% t langs.{{ lang }} %}</a></div>
-                {% endif %}
+            {% if lang == site.default_lang and site.default_locale_in_subfolder != true %}
+            <div><a href="{{ site.baseurl_root }}{{ page.url }}">{% t langs.{{ lang }} %}</a></div>
+            {% else %}
+            <div><a href="{{ site.baseurl_root }}/{{ lang }}{{ page.url }}">{% t langs.{{ lang }} %}</a></div>
+            {% endif %}
             {% endunless %}
-        {% endfor %}
+            {% endfor %}
         </div>
     </div>
 </nav>
