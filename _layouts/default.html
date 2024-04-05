@@ -2,6 +2,7 @@
 ---
 <!DOCTYPE html>
 <html lang="{{ site.lang | default: " en-US" }}">
+
 {% include head.html %}
 
 <body>
@@ -11,13 +12,16 @@
         <h1 class="project-name">{{ page.title | default: site.title }}</h1>
         <h2 class="project-tagline"> {% translate page.description %} </h2>
         <a href="https://t.me/CyborgWay" class="btn" title="Telegram" rel="nofollow noreferrer noopener" target="_blank"><i class="fa-brands fa-telegram"></i> Telegram</a>
-        <a href="https://twitter.com/CyborgWay" class="btn" title="Telegram" rel="nofollow noreferrer noopener" target="_blank"><i class="fa-brands fa-x-twitter"></i> X-Twitter</a>
+        <a href="https://twitter.com/CyborgWay" class="btn" title="X-Twitter" rel="nofollow noreferrer noopener" target="_blank"><i class="fa-brands fa-x-twitter"></i> X-Twitter</a>
         <a href="https://discord.gg/FnNtAnJJbN" class="btn" title="Discord" rel="nofollow noreferrer noopener" target="_blank"><i class="fa-brands fa-discord"></i> Discord</a>
-        <a href="https://vrc.group/CYBORG.0823" class="btn" title="Discord" rel="nofollow noreferrer noopener" target="_blank"><i class="fa-solid fa-vr-cardboard"></i> VRChat</a>
+        <a href="https://vrc.group/CYBORG.0823" class="btn" title="VRChat" rel="nofollow noreferrer noopener" target="_blank"><i class="fa-solid fa-vr-cardboard"></i> VRChat</a>
+
         {% include navbar.html %}
+
     </header>
 
     <main id="content" class="main-content" role="main">
+
         {{ content }}
 
         <footer class="site-footer">
