@@ -1,10 +1,10 @@
-<h1 align="center">Cyborg Way Technocracy Corporation - Creating Cybernetic Future for Cyborgs</h1>
+<h1 align="center">Cyborg Way Technocracy Corporation - Cybernetic Immortality</h1>
 
-Our goal is to accelerate the development of cybernetic technologies  and achive biological and cybernetic immortality within 3-10 years.
+Our goal is to accelerate the development of cybernetic technologies in order to achieve cybernetic immortality within 3-10 years.
 
-Get involved in our business and technological projects, ranging from the development of cybernetic implants to the creation of artificial intelligence! Send us your resume and salary expectations and we will offer you a suitable position matching your skills and interests.
+Get involved in our business and technological projects. Send us your resume and salary expectations and we will offer you a suitable position matching your skills and interests.
 
-Join us and take a step towards your immortality!
+Join us and take a step towards your cybernetic immortality!
 
 Welcome to our website [CyborgWay.org](https://cyborgway.org) and telegram bot [@CyborgWay_bot](https://t.me/cyborgway_bot).
 
