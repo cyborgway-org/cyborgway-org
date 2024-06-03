@@ -16,10 +16,6 @@ Your contributions support our Organization and our mission.
 
 Please read through our [Contributing Guidelines](CONTRIBUTING.md) and [Installation Instructions](INSTALL.md).
 
-## Donating
-
-Your donations support our Organization and our mission. Donate using any assets available for our [Stellar account](https://stellar.expert/explorer/public/account/GDSUUDRGLKPFMTROF7SPXJHK7SNS4JNAQ6JJ7WMGHNCSCIIKDOY4MWEX).
-
 ## Investing
 
 Invest using our investment [CWC Stellar asset](https://stellar.expert/explorer/public/asset/CWC-GDSUUDRGLKPFMTROF7SPXJHK7SNS4JNAQ6JJ7WMGHNCSCIIKDOY4MWEX) while supporting our Organization and our mission.

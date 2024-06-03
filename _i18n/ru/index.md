@@ -59,11 +59,6 @@
   Ваши помощь / вклад поддерживают нашу Организацию и нашу миссию.
 </p>
 <hr/>
-<h2 id="header-2">Пожертвования</h2>
-<p>
-  Ваши пожертвования поддерживают нашу Организацию и нашу миссию. Сделайте пожертвование, используя любые активы, доступные для нашего <a href="https://stellar.expert/explorer/public/account/GDSUUDRGLKPFMTROF7SPXJHK7SNS4JNAQ6JJ7WMGHNCSCIIKDOY4MWEX" target="_blank">Stellar аккаунта</a>.
-</p>
-<hr/>
 <h2 id="header-2">Инвестирование</h2>
 <p>
   Инвестируйте, используя наш инвестиционный <a href="https://stellar.expert/explorer/public/asset/CWC-GDSUUDRGLKPFMTROF7SPXJHK7SNS4JNAQ6JJ7WMGHNCSCIIKDOY4MWEX" target="_blank">CWC Stellar актив</a>, поддерживая нашу Организацию и нашу миссию.

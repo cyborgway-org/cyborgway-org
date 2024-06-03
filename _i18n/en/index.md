@@ -59,11 +59,6 @@
   Your contributions support our Organization and our mission.
 </p>
 <hr/>
-<h2 id="header-2">Donation</h2>
-<p>
-  Your donations support our Organization and our mission. Donate using any assets available for our <a href="https://stellar.expert/explorer/public/account/GDSUUDRGLKPFMTROF7SPXJHK7SNS4JNAQ6JJ7WMGHNCSCIIKDOY4MWEX" target="_blank">Stellar account</a>.
-</p>
-<hr/>
 <h2 id="header-2">Investing</h2>
 <p>
   Invest using our investment <a href="https://stellar.expert/explorer/public/asset/CWC-GDSUUDRGLKPFMTROF7SPXJHK7SNS4JNAQ6JJ7WMGHNCSCIIKDOY4MWEX" target="_blank">CWC Stellar asset</a> while supporting our Organization and our mission.
