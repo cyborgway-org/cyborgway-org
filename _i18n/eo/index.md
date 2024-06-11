@@ -42,6 +42,7 @@
     <li>Create and launch colony space stations to keep cybernetic personalities alive in space, outside of planets or other natural space objects with gravity and a biological ecosystem.</li>
     <li>Move cybernetic personalities to colony space stations to start a new age of space cybernetic civilization.</li>
     <li>Explore and study galaxies, star systems and planets in search of new knowledge and other civilizations.</li>
+    <li>Populate lifeless planets in the galaxy with new biological life forms that will develop and evolve, creating new worlds and civilizations.</li>
     <li>Look for answers to the cause and meaning of the existence of the universe.</li>
   </ul>
 </p>
