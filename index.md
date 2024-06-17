@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Cyborg Way
+title: Cyborg Way Technocracy Corporation
 description: global.description
 permalink: /
 ---

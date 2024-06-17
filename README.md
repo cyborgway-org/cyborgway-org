@@ -1,3 +1,7 @@
+[![Website](https://img.shields.io/badge/Website-cyborgway.org-blue.svg?style=flat-square])](https://cyborgway.org)
+[![Telegram Bot](https://img.shields.io/badge/Telegram_Bot-cyborgway__bot-blue.svg?style=flat-square&logo=telegram)](https://t.me/cyborgway_bot)
+[![Telegram](https://img.shields.io/badge/Telegram_Channel-cyborgway-blue.svg?style=flat-square&logo=telegram)](https://t.me/cyborgway)
+
 <h1 align="center">Cyborg Way Technocracy Corporation - Cybernetic Immortality</h1>
 
 Our goal is to accelerate the development of cybernetic technologies in order to achieve cybernetic immortality within 3-10 years.
@@ -5,8 +9,6 @@ Our goal is to accelerate the development of cybernetic technologies in order to
 Get involved in our business and technological projects. Send us your resume and salary expectations and we will offer you a suitable position matching your skills and interests.
 
 Join us and take a step towards your cybernetic immortality!
-
-Welcome to our website [CyborgWay.org](https://cyborgway.org) and telegram bot [@CyborgWay_bot](https://t.me/cyborgway_bot).
 
 The repository is a part of the [Cyborg Way Organization](https://github.com/cyborgway-org). This project and everyone participating in it is governed by the [Code of Conduct](CODE_OF_CONDUCT.md).
 

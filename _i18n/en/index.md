@@ -1,4 +1,4 @@
-<h2 id="header-2">Wikipedia</h2>
+<h2 id="header-2" align="center">WIKIPEDIA</h2>
 <p>
   <ul>
     <li><a href="https://en.wikipedia.org/wiki/Transhumanism" target="_blank">Transhumanism</a></li>
@@ -21,8 +21,7 @@
     <li><a href="https://en.wikipedia.org/wiki/Category:Extropians" target="_blank">Extropians</a></li>
   </ul>
 </p>
-<hr/>
-<h2 id="header-2">Road Map & Goals</h2>
+<h2 id="header-2" align="center">ROAD MAP & GOALS</h2>
 <p>
   <ul>
     <li>Ensure the well-being of Organization Members by meeting their basic physical needs and creating systems to fulfill them, allowing Organization Members to have more free time to achieve the Organization's goals and actively engaging in its projects.</li>
@@ -46,21 +45,18 @@
     <li>Look for answers to the cause and meaning of the existence of the universe.</li>
   </ul>
 </p>
-<hr/>
-<h2 id="header-2">Subscription</h2>
+<h2 id="header-2" align="center">SUBSCRIPTION</h2>
 <p>
   Use our telegram bot «<a href="https://t.me/cyborgway_bot" target="_blank">Cyborg Way Bot</a>» (in development) to connect to personalized newsletter.
 </p>
 <p>
   Subscribers will receive updates on the Organization's work, conferences, media coverage, education programs, and outreach efforts. Updates will be in the form of a personalized newsletter and the occasional special announcement. You will have the option to unsubscribe at any time, and we will not share your private information with any outside parties.
 </p>
-<hr/>
-<h2 id="header-2">Contribution</h2>
+<h2 id="header-2" align="center">CONTRIBUTION</h2>
 <p>
   Your contributions support our Organization and our mission.
 </p>
-<hr/>
-<h2 id="header-2">Investing</h2>
+<h2 id="header-2"align="center">INVESTING</h2>
 <p>
   Invest using our investment <a href="https://stellar.expert/explorer/public/asset/CWC-GDSUUDRGLKPFMTROF7SPXJHK7SNS4JNAQ6JJ7WMGHNCSCIIKDOY4MWEX" target="_blank">CWC Stellar asset</a> while supporting our Organization and our mission.
 </p>
@@ -70,8 +66,7 @@
 <p>
   The top 20 shareholders are members of the Fund's Board of Directors, participating in the formulation and adoption of all decisions, including the collaborative management of this asset.
 </p>
-<hr/>
-<h2 id="header-2">Tell your friends</h2>
+<h2 id="header-2" align="center">TELL YOUR FRIENDS</h2>
 <p>
   Even if you can't help us directly yourself, you may know a friend or organization who can. Please feel free to share any of the contents on this site.
 </p>
