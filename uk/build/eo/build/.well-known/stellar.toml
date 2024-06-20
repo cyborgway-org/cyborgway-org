@@ -1,0 +1,43 @@
+# Cyborg Way Stellar Anchor <https://cyborgway.org>
+# https://github.com/stellar/stellar-protocol/tree/master/ecosystem
+NETWORK_PASSPHRASE="Public Global Stellar Network ; September 2015"
+VERSION="2.5.0"
+
+ACCOUNTS=[
+"GDSUUDRGLKPFMTROF7SPXJHK7SNS4JNAQ6JJ7WMGHNCSCIIKDOY4MWEX",
+"GDAHBVQQGINAJ32I4CA3UEMUCTMMJUP2WD2VYUKVUNDN6O6M2LM6CWUP"
+]
+
+[DOCUMENTATION]
+ORG_NAME="Cyborg Way Technocracy Corporation"
+ORG_DBA="Cyborg Way Technocracy Corporation"
+ORG_URL="https://cyborgway.org"
+ORG_LOGO="https://cyborgway.org/assets/images/logo.png"
+ORG_DESCRIPTION="Cyborg Way Technocracy Corporation - Cybernetic Immortality"
+ORG_GITHUB="cyborgway-org"
+ORG_OFFICIAL_EMAIL="hello@cyborgway.org"
+ORG_SUPPORT_EMAIL="hello@cyborgway.org"
+
+[[CURRENCIES]]
+code="CWC"
+name="CWC"
+desc="CWC are crypto-shares in the form of investment fund assets that you can purchase if you want to support its activities and have your own stake of the fund. The top 20 shareholders are members of the Fund's Board of Directors, participating in the formulation and adoption of all decisions, including the collaborative management of this asset."
+issuer="GDSUUDRGLKPFMTROF7SPXJHK7SNS4JNAQ6JJ7WMGHNCSCIIKDOY4MWEX"
+status="live"
+display_decimals=7
+anchor_asset_type="other"
+is_unlimited=true
+image="https://cyborgway.org/assets/images/logo.png"
+
+[[CURRENCIES]]
+code="CWUP"
+name="CWUP"
+desc="[PRESALE] CWUP asset represents the ownership of UPGRADE colivings for transhumanists located in Thailand and Montenegro. These cutting-edge living spaces designed for living, working, and collaborating, with a focus on longevity, health, human enhancement, and technological progress, fostering for groundbreaking projects and achievements. The top 20 shareholders are members of the UPGRADE Board of Directors, participating in the formulation and adoption of all decisions, including the collaborative management of this asset."
+issuer="GDAHBVQQGINAJ32I4CA3UEMUCTMMJUP2WD2VYUKVUNDN6O6M2LM6CWUP"
+status="live"
+display_decimals=7
+is_asset_anchored=true
+anchor_asset_type="other"
+anchor_asset="[PRESALE] UPGRADE colivings for transhumanists located in Thailand and Montenegro"
+is_unlimited=true
+image="https://cyborgway.org/assets/images/cwup-logo.png"
