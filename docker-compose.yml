@@ -2,7 +2,7 @@ version: '3'
 
 services:
   site:
-    image: jekyll/jekyll:4.2.2
+    image: jekyll/jekyll:4.3.2
     command: jekyll serve --verbose
     container_name: 'cyborgway-org'
     ports:

@@ -1,6 +1,10 @@
-[![Website](https://img.shields.io/badge/Website-cyborgway.org-blue.svg?style=flat-square])](https://cyborgway.org)
-[![Telegram Bot](https://img.shields.io/badge/Telegram_Bot-cyborgway__bot-blue.svg?style=flat-square&logo=telegram)](https://t.me/cyborgway_bot)
-[![Telegram](https://img.shields.io/badge/Telegram_Channel-cyborgway-blue.svg?style=flat-square&logo=telegram)](https://t.me/cyborgway)
+[![Website](https://img.shields.io/badge/Website-CyborgWay.org-blue.svg?style=flat-square])](https://cyborgway.org)
+[![Telegram Bot](https://img.shields.io/badge/Telegram_Bot-CyborgWay__bot-blue.svg?style=flat-square&logo=telegram)](https://t.me/cyborgway_bot)
+[![Telegram Channel](https://img.shields.io/badge/Telegram_Channel-CyborgWay-blue.svg?style=flat-square&logo=telegram)](https://t.me/cyborgway)
+
+[![License](https://img.shields.io/badge/License-MIT-brightgreen.svg?style=flat-square)](LICENSE.md)
+[![GitHub Pages](https://img.shields.io/badge/GitHub_Pages--blue.svg?style=flat-square&logo=github)](https://pages.github.com)
+[![Jekyll Version](https://img.shields.io/badge/Jekyll-4.3-blue.svg?style=flat-square&logo=jekyll)](https://jekyllrb.com)
 
 <h1 align="center">Cyborg Way Technocracy Corporation - Cybernetic Immortality</h1>
 
