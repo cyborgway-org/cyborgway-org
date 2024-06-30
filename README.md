@@ -4,7 +4,6 @@
 
 [![License](https://img.shields.io/badge/License-MIT-brightgreen.svg?style=flat-square)](LICENSE.md)
 [![GitHub Pages](https://img.shields.io/badge/GitHub_Pages--blue.svg?style=flat-square&logo=github)](https://pages.github.com)
-[![Jekyll Version](https://img.shields.io/badge/Jekyll-4.3-blue.svg?style=flat-square&logo=jekyll)](https://jekyllrb.com)
 
 <h1 align="center">Cyborg Way Technocracy Corporation - Cybernetic Immortality</h1>
 
@@ -20,15 +19,7 @@ The repository is a part of the [Cyborg Way Organization](https://github.com/cyb
 
 Your contributions support our Organization and our mission.
 
-Please read through our [Contributing Guidelines](CONTRIBUTING.md) and [Installation Instructions](INSTALL.md).
-
-## Investing
-
-Invest using our investment [CWC Stellar asset](https://stellar.expert/explorer/public/asset/CWC-GDSUUDRGLKPFMTROF7SPXJHK7SNS4JNAQ6JJ7WMGHNCSCIIKDOY4MWEX) while supporting our Organization and our mission.
-
-CWC are crypto-shares in the form of investment fund assets that you can purchase if you want to support its activities and have your own stake of the fund.
-
-The top 20 shareholders are members of the Fund's Board of Directors, participating in the formulation and adoption of all decisions, including the collaborative management of this asset.
+Please read through our [Contributing Guidelines](CONTRIBUTING.md).
 
 ## Feedback
 
