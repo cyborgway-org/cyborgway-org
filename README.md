@@ -3,21 +3,12 @@
 [![Telegram Channel](https://img.shields.io/badge/Telegram_Channel-CyborgWay-blue.svg?style=flat-square&logo=telegram)](https://t.me/cyborgway)
 
 [![License](https://img.shields.io/badge/License-MIT-brightgreen.svg?style=flat-square)](LICENSE.md)
-[![GitHub Pages](https://img.shields.io/badge/GitHub_Pages--blue.svg?style=flat-square&logo=github)](https://pages.github.com)
 
 <h1 align="center">Cyborg Way Technocracy Corporation - Cybernetic Immortality</h1>
-
-Our goal is to accelerate the development of cybernetic technologies in order to achieve cybernetic immortality within 3-10 years.
-
-Get involved in our business and technological projects. Send us your resume and salary expectations and we will offer you a suitable position matching your skills and interests.
-
-Join us and take a step towards your cybernetic immortality!
 
 The repository is a part of the [Cyborg Way Organization](https://github.com/cyborgway-org). This project and everyone participating in it is governed by the [Code of Conduct](CODE_OF_CONDUCT.md).
 
 ## Contributing
-
-Your contributions support our Organization and our mission.
 
 Please read through our [Contributing Guidelines](CONTRIBUTING.md).
 
