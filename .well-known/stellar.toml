@@ -21,8 +21,8 @@ ORG_SUPPORT_EMAIL="hello@cyborgway.org"
 [[CURRENCIES]]
 code="CWC"
 name="CWC"
-desc="CWC represents the ownership of investment fund assets that you can purchase if you want to support its activities and have your own stake of the fund. The top 20 shareholders are members of the Fund's Board of Directors, participating in the formulation and adoption of all decisions, including the collaborative management of this asset."
 issuer="GDSUUDRGLKPFMTROF7SPXJHK7SNS4JNAQ6JJ7WMGHNCSCIIKDOY4MWEX"
+desc="CWC represents the ownership of investment fund assets that you can purchase if you want to support its activities and have your own stake of the fund. The top 20 shareholders are members of the Fund's Board of Directors, participating in the formulation and adoption of all decisions, including the collaborative management of this asset."
 status="live"
 display_decimals=7
 anchor_asset_type="other"
@@ -32,12 +32,54 @@ image="https://cyborgway.org/images/logo.png"
 [[CURRENCIES]]
 code="CWUP"
 name="CWUP"
-desc="[PRESALE] CWUP represents the ownership of UPGRADE colivings for transhumanists located in Thailand and Montenegro. These cutting-edge living spaces designed for living, working, and collaborating, with a focus on longevity, health, human enhancement, and technological progress, fostering for groundbreaking projects and achievements. The top 20 shareholders are members of the UPGRADE Board of Directors, participating in the formulation and adoption of all decisions, including the collaborative management of this asset."
 issuer="GDAHBVQQGINAJ32I4CA3UEMUCTMMJUP2WD2VYUKVUNDN6O6M2LM6CWUP"
+desc="[PRESALE] CWUP represents the ownership of UPGRADE colivings for transhumanists located in Thailand and Montenegro. These innovative living spaces designed for living, working, and collaborating, with a focus on longevity, health, human enhancement, and technological progress, fostering for groundbreaking projects and achievements. The top 20 shareholders are members of the UPGRADE Board of Directors, participating in the formulation and adoption of all decisions, including the collaborative management of this asset."
 status="live"
 display_decimals=7
 is_asset_anchored=true
 anchor_asset_type="other"
 anchor_asset="[PRESALE] UPGRADE colivings for transhumanists located in Thailand and Montenegro"
+is_unlimited=true
+image="https://cyborgway.org/images/cwup-logo.png"
+
+[[CURRENCIES]]
+code="THB"
+name="THB"
+issuer="GDAHBVQQGINAJ32I4CA3UEMUCTMMJUP2WD2VYUKVUNDN6O6M2LM6CWUP"
+desc="THB stablecoin provides a 1:1 value exchange with Thai Baht for pre-payment of bookings and services at UPGRADE colivings."
+redemption_instructions="THB stablecoin can be redeemed on a 1:1 basis with Thai Baht for bookings and services at UPGRADE colivings."
+status="live"
+display_decimals=2
+is_asset_anchored=true
+anchor_asset_type="fiat"
+anchor_asset="UPGRADE colivings for transhumanists"
+is_unlimited=true
+image="https://cyborgway.org/images/cwup-logo.png"
+
+[[CURRENCIES]]
+code="EUR"
+name="EUR"
+issuer="GDAHBVQQGINAJ32I4CA3UEMUCTMMJUP2WD2VYUKVUNDN6O6M2LM6CWUP"
+desc="EUR stablecoin provides a 1:1 value exchange with Euro for pre-payment of bookings and services at UPGRADE colivings."
+redemption_instructions="EUR stablecoin can be redeemed on a 1:1 basis with Euro for bookings and services at UPGRADE colivings."
+status="live"
+display_decimals=2
+is_asset_anchored=true
+anchor_asset_type="fiat"
+anchor_asset="UPGRADE colivings for transhumanists"
+is_unlimited=true
+image="https://cyborgway.org/images/cwup-logo.png"
+
+[[CURRENCIES]]
+code="USD"
+name="USD"
+issuer="GDAHBVQQGINAJ32I4CA3UEMUCTMMJUP2WD2VYUKVUNDN6O6M2LM6CWUP"
+desc="USD stablecoin provides a 1:1 value exchange with United States dollar for pre-payment of bookings and services at UPGRADE colivings."
+redemption_instructions="USD stablecoin can be redeemed on a 1:1 basis with United States dollar for bookings and services at UPGRADE colivings."
+status="live"
+display_decimals=2
+is_asset_anchored=true
+anchor_asset_type="fiat"
+anchor_asset="UPGRADE colivings for transhumanists"
 is_unlimited=true
 image="https://cyborgway.org/images/cwup-logo.png"
